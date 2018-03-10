@@ -1,0 +1,42 @@
+
+  html body{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    line-height: 35px;
+    font-family: monospace;
+    font-style: oblique;
+    background-repeat: no-repeat;
+    background-image: url(../images/crystal1.jpg);
+    height: 100%;
+    width: 100%;
+    background-position: center;
+}
+
+h1 {
+    color: black;
+    font-size: 80px;
+    text-align: center;
+    line-height: 100px;  
+}
+h2 {
+    color: black;
+    font-size: 45px;
+    line-height: 45px;
+}
+p {
+    color: black;
+    font-size: 25px;
+    line-height: 20px;
+    text-align: center;
+}
+.crystals img{
+    position:relative;
+    width: 100px;
+    height: 100px;
+
+}
+
+#game{
+    text-align: center;
+}
